@@ -59,11 +59,11 @@ RegisterNumber:212223110004
 ```
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![alt text](<Screenshot 2024-03-29 160519.png>)
+![Screenshot 2024-04-01 091948](https://github.com/aravindkumar23004721/ENCODER8TO3DATAFLOW/assets/148962674/9f41c4a3-8e89-48bb-93da-c9ba31c716c3)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![alt text](<Screenshot 2024-03-29 161127.png>)
+![Screenshot 2024-04-01 091930](https://github.com/aravindkumar23004721/ENCODER8TO3DATAFLOW/assets/148962674/94bd7617-e645-48f9-a8ec-aaa0b58c9145)
 
 **RESULTS**
 
